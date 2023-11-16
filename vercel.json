@@ -3,5 +3,6 @@
     "name": "matrix-chatgpt-bot",
     "builds": [
       {"src": "package.json", "use": "@vercel/node"}
-    ]
+    ],
+    "frameworks": {"name": "Node.js"}
   }
