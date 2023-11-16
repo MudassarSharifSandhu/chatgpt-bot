@@ -808,12 +808,11 @@
   dependencies:
     ioredis "^5.3.2"
 
-"@keyv/sqlite@^3.6.5":
-  version "3.6.5"
-  resolved "https://registry.yarnpkg.com/@keyv/sqlite/-/sqlite-3.6.5.tgz#d16aaf45397942486dca3cb10ef4840fa164e0bc"
-  integrity sha512-PZPsXcZYHPKUCX1DO7e6dTMGmk5aX7uW8QFzEavOPRMVloIp2QMv+Glt162pu+Dw5NunJinCbvD2DvYwinyNZw==
+"@keyv/sqlite@^3.6.6":
+  version "3.6.6"
+  resolved "https://registry.yarnpkg.com/@keyv/sqlite/-/sqlite-3.6.6.tgz#cf6e1a50fa2a6412d13a290a19af76e7839102a1"
+  integrity sha512-1aFpFlHZkJbF4Hiy12R05epoIyiqSQfzfS7aLUT62YbotZYEsA8bjD3L5I+luWq+qx3OSjlOC281p2i3OYHy1g==
   dependencies:
-    pify "^5.0.0"
     sqlite3 "^5.1.6"
 
 "@mapbox/node-pre-gyp@^1.0.0":
