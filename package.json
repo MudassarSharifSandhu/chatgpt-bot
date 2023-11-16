@@ -11,7 +11,7 @@
   },
   "scripts": {
     "build": "rm -f tsconfig.tsbuildinfo && yarn tsc",
-    "start": "node --enable-source-maps dist/index.js",
+    "start": "node --enable-source-maps build/index.js",
     "typecheck": "yarn tsc"
   },
   "dependencies": {

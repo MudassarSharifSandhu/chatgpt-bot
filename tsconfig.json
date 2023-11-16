@@ -12,7 +12,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "baseUrl": ".",
-    "outDir": "dist/",
+    "outDir": "build/",
     "noEmit": false,
     "types": ["node"]
   },
