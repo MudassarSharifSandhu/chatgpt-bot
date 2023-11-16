@@ -27,7 +27,7 @@
     "markdown-it": "^13.0.1",
     "matrix-bot-sdk": "^0.6.3",
     "typescript": "^5.1.6",
-    "znv": "^0.3.2",
+    "znv": "^0.4.0",
     "zod": "^3.21.4"
   }
 }
