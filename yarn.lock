@@ -3943,10 +3943,10 @@ yallist@^4.0.0:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
-znv@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/znv/-/znv-0.3.2.tgz#344363fe3024e4d1547a084991852b3ff7ad4f6f"
-  integrity sha512-dyQ2gfDe5RgEL7hKue1dFswmy4vzb/SRnLLRHaHNm39JteKstFs47I0nevlEa3oOWNMJ7XB4V1l/IdcLezPwoA==
+znv@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/znv/-/znv-0.4.0.tgz#52b201ee23ea6ac922cd5a8cb73dcc5ea82211ec"
+  integrity sha512-6/pGsQhBisLzKdyC90mUCRgYDtCfQ4aQ68sDybexq3GMzqqkp662GH6qIyuCHJC1i72hJPHbWAhccTJVuZUQfA==
   dependencies:
     colorette "^2.0.19"
 
